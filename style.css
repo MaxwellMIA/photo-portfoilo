@@ -54,3 +54,14 @@ header {
     padding: 4em;
     margin: 2em;
 }
+
+img{
+    height: 100px;
+    padding: 5px 5px 5px 5px;
+}
+
+.ctfc{
+    padding: 10px 20px 0px 20px;
+}
+
+/* Trbl */
